@@ -11,3 +11,4 @@ My solutions for the NeetCode 250 challenge.
 | 3 | Valid Anagram | Arrays & Hashing | Java | Done |
 | 4 | Two Sum | Arrays & Hashing | Java | Done |
 | 5 | Longest Common Prefix | Arrays & Hashing | Java | Done |
+| 6 | Remove Element | Two Pointers | Java | Done |
