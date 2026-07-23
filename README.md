@@ -13,3 +13,4 @@ My solutions for the NeetCode 250 challenge.
 | 5 | Longest Common Prefix | Arrays & Hashing | Java | Done |
 | 6 | Remove Element | Two Pointers | Java | Done |
 | 7 | Majority Element | Arrays & Hashing | Java | Done |
+| 8 | Design HashSet | Arrays & Hashing | Java | Done |
