@@ -14,3 +14,4 @@ My solutions for the NeetCode 250 challenge.
 | 6 | Remove Element | Two Pointers | Java | Done |
 | 7 | Majority Element | Arrays & Hashing | Java | Done |
 | 8 | Design HashSet | Arrays & Hashing | Java | Done |
+| 9 | Design HashMap | Arrays & Hashing | Java | Done |
