@@ -19,3 +19,4 @@ My solutions for the NeetCode 250 challenge.
 | 11 | Sort Colors | Two Pointers | Java | Done |
 | 12 | Top K Frequent Elements | Arrays & Hashing | Java | Done |
 | 13 | Encode and Decode Strings | Arrays & Hashing | Java | Done |
+| 14 | Range Sum Query 2D - Immutable | Prefix Sum | Java | Done |
