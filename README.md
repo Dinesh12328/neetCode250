@@ -18,3 +18,4 @@ My solutions for the NeetCode 250 challenge.
 | 10 | Sort an Array | Sorting | Java | Done |
 | 11 | Sort Colors | Two Pointers | Java | Done |
 | 12 | Top K Frequent Elements | Arrays & Hashing | Java | Done |
+| 13 | Encode and Decode Strings | Arrays & Hashing | Java | Done |
